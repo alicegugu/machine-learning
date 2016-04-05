@@ -1,0 +1,3 @@
+* progress
+
+choose three algorithm to train model, I have listed all the classification methods in sklearn. So next I need to learn SVM, F1 score.
